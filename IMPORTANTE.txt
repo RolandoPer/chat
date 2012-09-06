@@ -1,0 +1,8 @@
+Para el tutorial deberás modificar el servidor en
+app.js
+
+y el front end en
+
+scriptPrincipal.js
+
+que está adentro de scripts
